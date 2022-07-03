@@ -1,0 +1,15 @@
+{
+    "bot_id": "675996677366218774",
+    "description": "A fun and factual Discord bot supporting Cancer Research UK.",
+    "assets": {
+        "large_image": "pixxiebot",
+        "large_text": "Invite PixxieBot"
+    },
+    "buttons": [{
+        "label": "Invite",
+        "url": "https://pixx.ie/invite"
+    }, {
+        "label": "Support",
+        "url": "https://pixx.ie/support"
+    }]
+}
