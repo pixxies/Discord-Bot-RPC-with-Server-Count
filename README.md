@@ -1,5 +1,5 @@
 # Discord Bot RPC with Server Count
-Show your Discord bot's server count on your profile using Discord RPC.
+Show your Discord bot's server count on your Discord profile using Top.gg's API with Discord RPC.
 
 ## Requirements
 1. Your bot must be published and approved on [Top.gg](https://top.gg/bot/new).
